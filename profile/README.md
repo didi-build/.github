@@ -1,32 +1,33 @@
 # Didi Build 🌿
 
-**AI that actually fits your business.**
+**You built it. Let's make it ready for real users.**
 
-I help small businesses figure out where AI can save them time or make them money, then I build it. No hype, no packages, no surprise hourly bills.
+Getting ready for more users, paying customers, or investors? I give founders who built with AI an experienced engineer's view of what their app needs to get there. Think fractional CTO, for that next stage.
 
-## What I build
+## Who it's for
 
-- **Automations** that take repetitive work off your plate
-- **Document handling**: pulling data out of forms, invoices, and files
-- **Private assistants** that answer questions from your own documents
-- **Inbox tools** that sort, summarize, and draft replies
+Founders who built an app or tool with Lovable, Bolt, Base44, Replit, Cursor, Claude, or ChatGPT. You bring the vision. I bring the engineering that carries it.
 
-Everything is built on your accounts and your systems, so you stay in control of your data.
+## What I help with
+
+- **Off Base44, onto your own code:** move your app to GitHub and your own hosting, so you actually own it
+- **Ready for real users:** logins, security, backups, and monitoring, so it keeps up as people sign up
+- **Ready for investors:** clear answers on how your app is built and whether it can grow
+- **An audit before you scale:** what's solid, what's risky, and the path forward
 
 ## How it works
 
-1. **Free 30-minute chat.** Tell me what's taking up more time than it should. If AI isn't a good fit, I'll say so.
-2. **A written plan with a fixed price.** You know the scope and the number before any work starts.
-3. **I build it, then hand it off.** Simple docs, a walkthrough for your team, and support options after launch.
+1. **Free 30-min chat.** What you've built and where you want to take it. If I'm not the right fit, I'll tell you.
+2. **System audit.** A written summary: what's solid, what's risky, and what to do next.
+3. **Build or advise.** A fixed-price project with a clear scope, or hourly guidance while you build.
+4. **Support.** A monthly plan, or reach out as needed.
 
-Based in Toronto, working with businesses across Canada.
+Your code, accounts, and hosting stay yours. Based in Toronto, working with founders across Canada.
 
 ## Get in touch
 
-👉 **[Book a free chat at didi.build](https://didi.build/#contact)** or email **hello@didi.build**
+👉 Book a free chat at [didi.build/book](https://didi.build/book) or email hello@didi.build
 
 ## Built in the open
 
-This org holds my own tools, built the same way I build for clients:
-
-- **[web](https://github.com/didi-build/web)**: the didi.build site, including an AI lead-intake pipeline that summarizes each inquiry and files it straight into my project tracker
+- [web](https://github.com/didi-build/web): the didi.build site (Next.js on Cloudflare Workers)
